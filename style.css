@@ -1,4 +1,3 @@
-/* Reset */
 *{
     margin: 0;
     padding: 0;
@@ -94,6 +93,6 @@ td:first-child{
 }
 
 td:last-child{
-    text-align: left;
-    padding-left: 25px;
+    text-align: center;
+    padding-left: 0;
 }
